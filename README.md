@@ -1,5 +1,5 @@
 # Android Artisans
-## A curated list of well-built, beautiful Android apps
+A curated list of well-built, beautiful Android apps
 
 ## 🚀 Quick start (Gatsby Cloud)
 
