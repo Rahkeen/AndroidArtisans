@@ -15,11 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.4.1",
     "gatsby-cli": "^3.4.1",
     "gatsby-plugin-styled-components": "^4.4.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.0"
   }
 }
